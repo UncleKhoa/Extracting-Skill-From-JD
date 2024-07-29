@@ -1,1 +1,1 @@
-# Skill_Parser_using_Spacy
+# Extracting-Skill-From-JD
